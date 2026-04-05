@@ -15,8 +15,6 @@
 
 ## Quick Start
 
-**Live at:** [docker.genius-space.org](https://docker.genius-space.org)
-
 **Proxy:** Run `python proxy.py` on your Docker host, then add `http://<host-ip>:9587` as a connection.
 
 ## Features
